@@ -1,0 +1,43 @@
+/go-revive-2/use_template_params/use_template_params.go:1:1: don't use an underscore in package name
+/go-revive-2/undefinedtypes/undefined.go:3:1: exported method Undefined.Do should have comment or be unexported
+/go-revive-2/undefinedtypes/interface_embedding.go:3:6: exported type SomeStruct should have comment or be unexported
+/go-revive-2/syntaxtest/syntax.go:5:1: exported function Not should have comment or be unexported
+/go-revive-2/undefinedtypes/interface_embedding.go:7:1: exported method SomeStruct.Do should have comment or be unexported
+/go-revive-2/test024.go:9:1: exported function Foo24 should have comment or be unexported
+/go-revive-2/test025.go:3:1: exported function Foo25 should have comment or be unexported
+/go-revive-2/test019.go:3:1: exported function Foo19 should have comment or be unexported
+/go-revive-2/test030.go:5:1: exported method Doctor.SayHello should have comment or be unexported
+/go-revive-2/test022.go:5:1: exported function Foo22 should have comment or be unexported
+/go-revive-2/test_existing_test_file_with_comments_without_newline.go:11:1: package comment should be of the form "Package testdata ..."
+/go-revive-2/test_existing_test_file_with_mixed_comments.go:20:1: package comment should not have leading space
+/go-revive-2/test026.go:3:1: exported function Foo26 should have comment or be unexported
+/go-revive-2/test023.go:3:1: exported function Foo23 should have comment or be unexported
+/go-revive-2/test029.go:5:1: exported method Person.SayHello should have comment or be unexported
+/go-revive-2/test_existing_test_file_with_comments_newline.go:16:1: exported function BeforeCommentNewLine should have comment or be unexported
+/go-revive-2/test003.go:3:1: exported function Foo3 should have comment or be unexported
+/go-revive-2/test021.go:3:1: exported function Foo21 should have comment or be unexported
+/go-revive-2/test028.go:5:1: exported method Celsius.ToFahrenheit should have comment or be unexported
+/go-revive-2/calculator.go:5:6: exported type Calculator should have comment or be unexported
+/go-revive-2/test018.go:5:1: exported function Foo18 should have comment or be unexported
+/go-revive-2/test_existing_test_file_with_comments.go:13:1: exported function BeforeComment should have comment or be unexported
+/go-revive-2/test027.go:3:6: exported type Opener should have comment or be unexported
+/go-revive-2/test020.go:3:1: exported function Foo20 should have comment or be unexported
+/go-revive-2/test_existing_test_file_with_mixed_comments.go:20:1: package comment should be of the form "Package testdata ..."
+/go-revive-2/test_existing_test_file_with_comments_without_newline.go:15:1: exported function BeforeCommentNewLine should have comment or be unexported
+/go-revive-2/test031.go:7:1: exported function Write should have comment or be unexported
+/go-revive-2/test_t_receiver.go:3:6: exported type TestReceiver should have comment or be unexported
+/go-revive-2/test033.go:7:1: exported method Name.Name1 should have comment or be unexported
+/go-revive-2/test_filter.go:5:1: exported function FooFilter should have comment or be unexported
+/go-revive-2/test028.go:9:1: exported function HourToSecond should have comment or be unexported
+/go-revive-2/calculator.go:7:1: exported method Calculator.Multiply should have comment or be unexported
+/go-revive-2/test027.go:7:6: exported type Book should have comment or be unexported
+/go-revive-2/test_existing_test_file_with_mixed_comments.go:23:1: exported function BeforeCommentNewLine should have comment or be unexported
+/go-revive-2/test031.go:9:1: exported function MultiWrite should have comment or be unexported
+/go-revive-2/test033.go:11:1: exported method Name.Name2 should have comment or be unexported
+/go-revive-2/test_t_receiver.go:5:1: exported method TestReceiver.FooMethod should have comment or be unexported
+/go-revive-2/test_filter.go:7:1: exported method Bar.BarFilter should have comment or be unexported
+/go-revive-2/test027.go:9:1: exported method Book.Open should have comment or be unexported
+/go-revive-2/calculator.go:11:1: exported method Calculator.Divide should have comment or be unexported
+/go-revive-2/test033.go:15:1: exported method Name.Name3 should have comment or be unexported
+/go-revive-2/test033.go:11:1: receiver name n should be consistent with previous receiver name name for Name
+/go-revive-2/test033.go:15:1: receiver name n should be consistent with previous receiver name name for Name
